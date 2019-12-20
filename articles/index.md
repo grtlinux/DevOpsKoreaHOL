@@ -1,5 +1,6 @@
 # 12월 20일 완전한 세미나를 마침
 
+# Hello, world
 
 # Azure DevOps HOL
 
