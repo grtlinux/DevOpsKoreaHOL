@@ -1,6 +1,7 @@
 # 12월 20일 완전한 세미나를 마침
-
+# 12월 25일 세미나 목기
 # Hello, world
+# Hello, Christmas
 
 # Azure DevOps HOL
 
